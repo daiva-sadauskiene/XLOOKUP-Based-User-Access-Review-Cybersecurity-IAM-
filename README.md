@@ -60,7 +60,7 @@ This project focuses on analysis and reporting. Actual access removal would be p
 The following screenshots provide a visual walkthrough of the Excel-based access review and account reconciliation process.
 
 ### Access Review Logic (IF Function)
-![Access review IF logic](01_access_review_if_logic.png)
+![Access review IF logic](01_access_review_If_logic.png)
 
 ### System User Access List
 ![System users list](02_system_users_list.png)
